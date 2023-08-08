@@ -1,0 +1,76 @@
+body {
+    background-color: white;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (max-width:425px) {
+    .card1 {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .texti-box {
+        margin-bottom: 63px !important;
+    }
+
+    .logo-box {
+        display: flex;
+        justify-content: center;
+        margin-top: 88px !important;
+        margin-bottom: 56px !important;
+    }
+
+    .logo {
+        margin-bottom: 0 !important;
+    }
+    .img1{
+        margin-left: 320px !important;
+    }
+    .teqsti{
+        margin-left: 60px !important;
+    }
+    .img2{
+        margin-left:320px !important ;
+    }
+}
+
+.button-1 {
+    margin-bottom: 20px;
+}
+
+.logo {
+    margin-bottom: 149px;
+}
+
+.card1 {
+    padding-left: 116px;
+    padding-right: 116px;
+}
+
+.container2 {
+    border-radius: 44px;
+}
+
+.container {
+    margin-left: 10px;
+}
+
+.teqsti {
+    color: #344054;
+    
+}
+
+.spani {
+    color: blue;
+    
+}
+
+.teqsti {
+    margin-left: 100px;
+}
+
